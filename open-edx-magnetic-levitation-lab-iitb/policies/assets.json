@@ -1,0 +1,26 @@
+{
+    "magnetic-levitation-iitb.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ML-IITB", 
+            "name": "magnetic-levitation-iitb.jpg", 
+            "org": "IIT-Bombay", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "magnetic-levitation-iitb.jpg", 
+        "filename": "asset-v1:IIT-Bombay+ML-IITB+Anytime+type@asset+block@magnetic-levitation-iitb.jpg", 
+        "import_path": "magnetic-levitation-iitb.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIT-Bombay", 
+            "ML-IITB", 
+            "thumbnail", 
+            "magnetic-levitation-iitb.jpg", 
+            null
+        ]
+    }
+}
